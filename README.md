@@ -17,4 +17,4 @@ I created the NFT designs using SVG. The club passes are character spoilers pair
 # NFT CERTIFICATE
 ![NFT APP](MintNFT.png)
 
-I received an NFT for completing the learn-a-thon challenge within the 2-week sprint.
+I earned an NFT for completing the learn-a-thon challenge within the 2-week sprint.
