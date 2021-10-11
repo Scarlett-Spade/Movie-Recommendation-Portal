@@ -1,9 +1,9 @@
-# Movie-Recommendation-App
+# NFT-App
 
 This is a Buildspace project. 
 
-During a 2-week learn-a-thon, I wrote an Ethereum smart contract using Solidity, 
-deployed the smart contract to the blockchain, and created a web3 client app 
-that interacts with the smart contract by allowing users to send movie recommendations.
+During a 7-day learn-a-thon, I wrote an Ethereum smart contract using Solidity, 
+programmatically generated my own NFT collection, and created a React dApp 
+allowing users to mint the NFT collection.
 
-I received an NFT for being a part of the first 200 people to complete the learn-a-thon challenge.
+I received an NFT for completing the learn-a-thon challenge within the 7-day sprint.
