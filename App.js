@@ -7,7 +7,7 @@ import beetleNFT from './utils/beetleNFT.json';
 // Constants
 const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-const CONTRACT_ADDRESS = "0x86CDcc621322a886448a21f2470b347A96c69742";
+const CONTRACT_ADDRESS = "CONTRACT ADDRESS";
 const OPENSEA_LINK = "https://testnets.opensea.io/collection/beetlejuice-1988"
 
 
