@@ -1,0 +1,171 @@
+.App {
+  height: 100vh;
+  background-color: #000000;
+  overflow: hidden;
+  text-align: center;
+}
+
+.container {
+  height: 100%;
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header-container {
+  padding-top: 10px;
+}
+
+.header {
+  margin: 0;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.header.gradient-text {
+  margin-top: -10px;
+  font-size: 80px;
+}
+
+.sub-text {
+  font-size: 15px;
+  color: white;
+}
+
+.gradient-text {
+  background: -webkit-linear-gradient(left, #7A160C 45%, #E6D52A 60%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cta-button {
+  height: 45px;
+  border: 0;
+  width: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  color: #501910;
+}
+
+.connect-wallet-button {
+  background: -webkit-linear-gradient(left, #7A160C, #E6D52A, #1335A0);
+  background-size: 200% 200%;
+  animation: gradient-animation 4s ease infinite;
+}
+
+.mint-button {
+  background: -webkit-linear-gradient(left, #7A160C, #E6D52A, #1335A0);
+  background-size: 200% 200%;
+  animation: gradient-animation 4s ease infinite;
+  margin-right: 15px;
+}
+
+.opensea-button {
+  background-color: #0505A2;
+  padding: 5px;
+  border-radius: 25px;
+  margin-right: 30px;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.mint-count {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding-bottom: 1px;
+  margin-top: -20px;
+}
+
+.twitter-logo {
+  width: 18px;
+  
+}
+
+.footer-text {
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.TragedyLogo {
+  width: 300px;
+  padding-top: -60px;
+  margin-top: -40px;
+  margin-left: -300px;
+}
+
+.BeetleWorm {
+  margin-top: -360px;
+}
+
+.mint-limit {
+	margin: 2em;
+}
+
+.limit-header {
+	font-size: 1.2em;
+	color: white;
+}
+
+.limit-value {
+	font-size: 1.5em;
+	color: white;
+	font-weight: bold;
+}
+
+.loadingButton {
+  width: 200px;
+  height: 220px;
+  margin-top: -200px;
+  
+}
+
+/* KeyFrames */
+@-webkit-keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-moz-keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
