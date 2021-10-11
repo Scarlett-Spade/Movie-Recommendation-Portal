@@ -2,7 +2,7 @@
 
 This is a Buildspace project. 
 
-During a 2-week learn-a-thon, I wrote a smart contract using Solidity, 
+During a 2-week learn-a-thon, I wrote an Ethereum smart contract using Solidity, 
 deployed the smart contract to the blockchain, and created a web3 client app 
 that interacts with the smart contract by allowing users to send movie recommendations.
 
