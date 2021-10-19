@@ -2,7 +2,7 @@
 
 This is a [Buildspace](https://buildspace.so/) project.
 
-![NFT APP](Beetlejuice.png)
+![NFT APP](screening_app.png)
 
 # ABOUT
 
